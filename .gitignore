@@ -1,0 +1,9 @@
+.DS_Store
+.idea
+node_modules
+build/main-*
+build/overview.json
+build/manifest.json
+yarn.lock
+__pycache__
+*.zip
